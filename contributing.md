@@ -3,7 +3,7 @@
 Hey Guys and Girls, I am really glad you are here, because this project needs more volunteers to bring it to life.   
 
 If you haven't already, come find us in Gitter [![Join the chat at https://gitter.im/sahaay-india/community](https://badges.gitter.im/sahaay-india/community.svg)](https://gitter.im/sahaay-india/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-You can also join the discord at 
+You can also join the [Sahaay Discord](https://discord.gg/rbFjcMZ) 
 
 Here are some important resources:
   * [Our roadmap](https://trello.com/b/CcO8gd0Q/sahaay-roadmap) is the 10k foot view of where we're going, and
